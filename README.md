@@ -1,8 +1,7 @@
 # 42-brainfuck
 brainfuck @ 42 - Brainfuck interpreter program
 
-Assignment name  : brainfuck  
-Expected files   : *.c, *.h  
+Assignment name  : brainfuck   
 Allowed functions: write, malloc, free  
 
 Write a Brainfuck interpreter program.  
